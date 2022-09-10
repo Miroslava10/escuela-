@@ -1,2 +1,2 @@
-# 1122is-example
+# 1122is-Example 
 Algoridmos 
